@@ -1,0 +1,41 @@
+body {
+    background-color: #c5d7bd;
+} 
+
+.name-font {
+    font-family: 'Courier New', Courier, monospace;
+    color: #383e56;
+}
+
+.p-font {
+    font-family: monospace;
+}
+
+.estilo1 {
+    font-size: 18px;
+}
+.estilo2 {
+    font-size: 16px;
+}
+.estilo3 {
+    font-size: 14px;
+}
+
+.picture {
+    border-radius: 30px;
+}
+
+hr {
+    width: 200px ;
+    height: 1px;
+    border-style: solid;
+    border-color: #383e56;
+    background-color: #383e56;
+
+}
+
+h1 {
+    color: #fb743e;
+    font-weight: 700;
+    text-align: center;
+}
